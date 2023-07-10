@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319492175387",
+    "project_id": "memegen-12986",
+    "storage_bucket": "memegen-12986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319492175387:android:39dad2566922ab47032abe",
+        "android_client_info": {
+          "package_name": "com.example.memegen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319492175387-hqk9650k1234jrpv7qp0np6k1q0ctjdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memegen",
+            "certificate_hash": "970c12fba81c28c4052b4b925accb1d70d2bba5c"
+          }
+        },
+        {
+          "client_id": "319492175387-623sie0ui0m2o2uoqjb11u5qtl71qbjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCMC5iTXUyy9lNcFOSwmL9ohaFPM1vSdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319492175387-623sie0ui0m2o2uoqjb11u5qtl71qbjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
